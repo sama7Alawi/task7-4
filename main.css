@@ -1,0 +1,42 @@
+#Body{
+    background-color: whitesmoke;
+    display: inline-block;
+    margin: 0px;
+}
+.first_div{
+   display: inline-block;
+   padding: 5px;
+   margin: 5px;
+  
+
+
+}
+.firstDiv{
+    display: inline-block;
+    padding: 10px;
+    border: 2px;
+    border-radius: 5px;
+    border-color: black;
+    border-style:solid;
+   
+}
+
+.second_div{
+   display: inline-block;
+   padding: 10px;
+   margin: 5px;
+   border: 3px;
+}
+.secondDiv{
+    display: inline-block;
+    padding: 10px;
+    border: 2px;
+    border-radius: 5px;
+    border-color: black;
+    border-style:solid;
+}
+
+.button{
+    background-color: blue;
+    display: inline;
+}
