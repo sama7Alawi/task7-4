@@ -36,7 +36,16 @@
     border-style:solid;
 }
 
-.button{
-    background-color: blue;
+.buttons{
+    background-color: rgb(216, 216, 239);
     display: inline;
+    margin: 5px;
+    padding: 5px;
+
+}
+.fa-regular{
+    background-color: rgb(95, 191, 239);
+    display: inline;
+    padding: 6px;
+    margin: 1px;
 }
